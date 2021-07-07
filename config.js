@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Anh iu ơiiiiii!',
-    introDesc: `Em iu của anh nò.
-    Huỳnh Như nè <3`,
+    introDesc: 'Em iu của anh nò.
+    Huỳnh Như nè <3',
     btnIntro: 'hihi',
     title: 'Anh có iu em hongggg hả 😙',
     desc: 'Anh có nhớ em hoonggggg?????? ',
